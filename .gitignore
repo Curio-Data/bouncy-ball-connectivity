@@ -31,3 +31,6 @@ test-results/
 .agents/
 .claude/
 skills-lock.json
+
+# Project inputs (briefs, specs)
+inputs/
