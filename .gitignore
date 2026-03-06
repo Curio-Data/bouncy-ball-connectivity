@@ -26,3 +26,8 @@ bun-debug.log*
 # Testing
 playwright-report/
 test-results/
+
+# Agent/LLM
+.agents/
+.claude/
+skills-lock.json
